@@ -27,6 +27,8 @@ The final PCB result is looking as following:
 The final power supply looks like this:
 ![20210509_004658](https://user-images.githubusercontent.com/84908851/119838362-a476fa80-bf03-11eb-8e85-b4263a033d62.jpg)
 ![20210509_004630](https://user-images.githubusercontent.com/84908851/119838377-a6d95480-bf03-11eb-8f67-dfd3e2dd3712.jpg)
+To scew the two parts together, I used four Ruthex M3 Inserts.
+https://rb.gy/0ddei3
 There are simple 6.3mm faston clamps with angled soldering points. They are made for pcb mount
 ![20210527_155159](https://user-images.githubusercontent.com/84908851/119839061-2a934100-bf04-11eb-84ea-283dcfcdfcf2.jpg)
 
